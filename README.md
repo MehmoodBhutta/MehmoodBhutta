@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmood</h1>
-<h3 align="center">A passionate Data Scientist / Django developer from Pakistan</h3>
+<h3 align="center">Data Scientist / Django developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Machine Learning / AI**
 
