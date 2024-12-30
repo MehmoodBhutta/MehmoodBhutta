@@ -5,7 +5,7 @@
 
 - 📇 Connect with me on [LinkedIn](https://www.linkedin.com/in/mehmood-jb/)
 
-- 📫 Reach me at **mehmood.bhutta55@gmail.com**
+- 📫 Reach me at **mehmoodjbhutta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
