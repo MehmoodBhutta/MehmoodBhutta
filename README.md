@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Mehmood Jamal Bhutta Profile Picture" width="150" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/u/57303661?v=4" alt="Mehmood Jamal Bhutta Profile Picture" width="150" style="border-radius:50%;">
   <h1>Hi 👋, I'm Mehmood Jamal Bhutta</h1>
   <p><strong>Python Programmer | Data Scientist | Automation Specialist</strong></p>
   <p>📍 Lahore, Pakistan</p>
