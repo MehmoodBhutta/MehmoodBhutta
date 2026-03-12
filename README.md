@@ -76,17 +76,20 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/MehmoodBhutta/your-fraud-detection-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=your-fraud-detection-repo&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
+<a href="https://github.com/MehmoodBhutta/Credit_Card_Fraud_Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=Credit_Card_Fraud_Detection&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
 </a>
-<a href="https://github.com/MehmoodBhutta/your-churn-prediction-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=your-churn-prediction-repo&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
+<a href="https://github.com/MehmoodBhutta/Churn_Modelling">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=Churn_Modelling&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
 </a>
-<a href="https://github.com/MehmoodBhutta/your-seo-automation-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=your-seo-automation-repo&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
+<a href="https://github.com/MehmoodBhutta/Human_Activity_Recognition">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=Human_Activity_Recognition&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
 </a>
-<a href="https://github.com/MehmoodBhutta/your-ecommerce-scraper-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=your-ecommerce-scraper-repo&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
+<a href="https://github.com/MehmoodBhutta/Amazon-Scrap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=Amazon-Scrap&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
+</a>
+<a href="https://github.com/MehmoodBhutta/customer_shopping_data">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=customer_shopping_data&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
 </a>
 
 </div>
