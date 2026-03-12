@@ -113,15 +113,11 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehmoodBhutta/MehmoodBhutta/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehmoodBhutta/MehmoodBhutta/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MehmoodBhutta/MehmoodBhutta/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MehmoodBhutta&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
