@@ -85,37 +85,21 @@ print(me.what_i_do())
 
 ## 🚀 Featured Projects
 
-> Production automation &amp; LLM systems — the work I build day to day.
+**🤖 Production Automation &amp; LLM Systems** — the work I build day to day.
 
-<div align="center">
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| **[Brand Intelligence Agent](https://github.com/MehmoodBhutta/brand-intelligence-agent)** | GPT-4 agent that scores and reports online brand presence weekly — replaced ~15 hrs/week of manual analyst work | `GPT-4` · `Python` · `LLM Agent` |
+| **[AEO Brand Visibility Tracker](https://github.com/MehmoodBhutta/aeo-brand-visibility-tracker)** | Multi-source brand-mention tracker (Reddit, Facebook, niche forums) with deduplication + LLM sentiment classification | `Python` · `Scraping` · `NLP` |
+| **[AEO Visibility Suite](https://github.com/MehmoodBhutta/aeo-visibility-suite)** | Self-hosted n8n automation suite on AWS — 10+ workflows, zero unplanned downtime, monitoring &amp; alerting | `n8n` · `AWS` · `REST APIs` |
 
-<a href="https://github.com/MehmoodBhutta/brand-intelligence-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=brand-intelligence-agent&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
-</a>
-<a href="https://github.com/MehmoodBhutta/aeo-brand-visibility-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=aeo-brand-visibility-tracker&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
-</a>
-<a href="https://github.com/MehmoodBhutta/aeo-visibility-suite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=aeo-visibility-suite&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
-</a>
+**📊 Machine Learning &amp; Data Science**
 
-</div>
-
-> Machine learning &amp; data science.
-
-<div align="center">
-
-<a href="https://github.com/MehmoodBhutta/Credit_Card_Fraud_Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=Credit_Card_Fraud_Detection&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
-</a>
-<a href="https://github.com/MehmoodBhutta/Churn_Modelling">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=Churn_Modelling&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
-</a>
-<a href="https://github.com/MehmoodBhutta/Amazon-Scrap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehmoodBhutta&repo=Amazon-Scrap&theme=midnight-purple&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" />
-</a>
-
-</div>
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| **[Credit Card Fraud Detection](https://github.com/MehmoodBhutta/Credit_Card_Fraud_Detection)** | ML pipeline with automated cross-validation on imbalanced data — 92% accuracy | `Scikit-Learn` · `XGBoost` |
+| **[Churn Modelling](https://github.com/MehmoodBhutta/Churn_Modelling)** | Gradient-boosted churn model with feature-importance reporting — 88% accuracy | `Python` · `Sklearn` |
+| **[Amazon Scraper](https://github.com/MehmoodBhutta/Amazon-Scrap)** | Web scraper for Amazon product data with structured, validated export | `Python` · `BeautifulSoup` |
 
 ---
 
