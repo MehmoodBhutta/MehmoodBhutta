@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0f172a,100:0b0f19&height=200&section=header&text=Mehmood%20Jamal%20Bhutta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20LLM%20Integration%20%7C%20Python&descAlignY=58&descSize=18&animation=fadeIn"/>
 
+<p align="center">
+  <img src="https://github.com/MehmoodBhutta.png" width="130" height="130" alt="Mehmood Jamal Bhutta" style="border-radius:50%" />
+</p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2500&color=34D399&center=true&vCenter=true&width=560&lines=Hey+there,+I'm+Mehmood;AI+Automation+Engineer;Building+production+LLM+systems;Based+in+Lahore,+Pakistan)](https://git.io/typing-svg)
@@ -89,8 +93,8 @@ I architect, deploy, and monitor LLM-powered automation that replaces manual wor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MehmoodBhutta&show_icons=true&theme=transparent&bg_color=0b0f19&border_color=1f2937&title_color=34D399&icon_color=34D399&text_color=9ca3af&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmoodBhutta&layout=compact&theme=transparent&bg_color=0b0f19&border_color=1f2937&title_color=34D399&text_color=9ca3af&hide_border=false" height="165"/>
+<img src="https://github-readme-stats-woad.vercel.app/api?username=MehmoodBhutta&show_icons=true&theme=transparent&bg_color=0b0f19&border_color=1f2937&title_color=34D399&icon_color=34D399&text_color=9ca3af&hide_border=false&count_private=true" height="165"/>
+<img src="https://github-readme-stats-woad.vercel.app/api/top-langs/?username=MehmoodBhutta&layout=compact&theme=transparent&bg_color=0b0f19&border_color=1f2937&title_color=34D399&text_color=9ca3af&hide_border=false" height="165"/>
 
 </div>
 
