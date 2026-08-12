@@ -1,91 +1,84 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0f172a,100:0b0f19&height=200&section=header&text=Mehmood%20Jamal%20Bhutta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20LLM%20Integration%20%7C%20Python&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:0f172a,100:0a0b0d&height=200&section=header&text=Mehmood%20Jamal%20Bhutta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://github.com/MehmoodBhutta.png" width="130" height="130" alt="Mehmood Jamal Bhutta" style="border-radius:50%" />
+  <img src="https://github.com/MehmoodBhutta.png" width="140" height="140" alt="Mehmood Jamal Bhutta" style="border-radius:50%" />
 </p>
 
-<div align="center">
+<h1 align="center">Mehmood Bhutta</h1>
+<p align="center"><strong>AI Automation Engineer</strong> &middot; n8n &middot; Python &middot; LLM Agents</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2500&color=34D399&center=true&vCenter=true&width=560&lines=Hey+there,+I'm+Mehmood;AI+Automation+Engineer;Building+production+LLM+systems;Based+in+Lahore,+Pakistan)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://linkedin.com/in/mehmood-jb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mehmoodjbhutta@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/MehmoodBhutta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=MehmoodBhutta&style=for-the-badge&color=34D399&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
-</div>
-
----
-
-## About Me
-
-I architect, deploy, and monitor LLM-powered automation that replaces manual work, end to end, with real uptime and real results.
-
-**What I work with:** `Python` · `n8n` · `GPT-4 / Claude APIs` · `LangChain` · `RAG` · `AWS` · `SQL`
-
-**Based in:** Lahore, Pakistan
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MehmoodBhutta&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
 
 ---
 
-## Tech Stack
+## About
 
-<div align="center">
+AI automation engineer with **3 years of experience** building production n8n workflows, LLM classification pipelines, and AI agent integrations on AWS. Ran **10+ workflows for 12 months with zero unplanned downtime**.
 
-**AI & LLMs**
-
-![GPT-4](https://img.shields.io/badge/GPT--4_API-0b0f19?style=for-the-badge&logo=openai&logoColor=34D399&labelColor=0f172a)
-![Claude](https://img.shields.io/badge/Claude-0b0f19?style=for-the-badge&logo=anthropic&logoColor=34D399&labelColor=0f172a)
-![LangChain](https://img.shields.io/badge/LangChain-0b0f19?style=for-the-badge&logo=langchain&logoColor=34D399&labelColor=0f172a)
-![RAG](https://img.shields.io/badge/RAG-0b0f19?style=for-the-badge&logo=databricks&logoColor=34D399&labelColor=0f172a)
-
-**Automation & Workflow**
-
-![n8n](https://img.shields.io/badge/n8n-0b0f19?style=for-the-badge&logo=n8n&logoColor=34D399&labelColor=0f172a)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0b0f19?style=for-the-badge&logo=fastapi&logoColor=34D399&labelColor=0f172a)
-![Webhooks](https://img.shields.io/badge/Webhooks-0b0f19?style=for-the-badge&logo=webhooks&logoColor=34D399&labelColor=0f172a)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-0b0f19?style=for-the-badge&logo=python&logoColor=34D399&labelColor=0f172a)
-
-**Languages & Core**
-
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
-[![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com)
-[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com)
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org)
-
-**ML & Data**
-
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://tensorflow.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org)
-[![Sklearn](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://scikit-learn.org)
-
-![Pandas](https://img.shields.io/badge/Pandas-0b0f19?style=for-the-badge&logo=pandas&logoColor=34D399&labelColor=0f172a)
-![NumPy](https://img.shields.io/badge/NumPy-0b0f19?style=for-the-badge&logo=numpy&logoColor=34D399&labelColor=0f172a)
-![XGBoost](https://img.shields.io/badge/XGBoost-0b0f19?style=for-the-badge&logo=python&logoColor=34D399&labelColor=0f172a)
-
-</div>
+I design, deploy, and monitor LLM-powered automation that replaces manual work, end to end.
 
 ---
 
-## Featured Projects
+## Skills
 
-**Production Automation & LLM Systems**
+**Workflow Automation**
+Self-hosted n8n &middot; error handling &middot; output validation &middot; monitoring &middot; Slack alerting
 
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| [Brand Intelligence Agent](https://github.com/MehmoodBhutta/brand-intelligence-agent) | GPT-4 agent that scores and reports online brand presence weekly | GPT-4 · Python · LLM Agent |
-| [AEO Brand Visibility Tracker](https://github.com/MehmoodBhutta/aeo-brand-visibility-tracker) | Multi-source brand-mention tracker with deduplication + LLM sentiment | Python · Scraping · NLP |
-| [AEO Visibility Suite](https://github.com/MehmoodBhutta/aeo-visibility-suite) | Self-hosted n8n automation suite on AWS with monitoring | n8n · AWS · REST APIs |
+**API Integration**
+REST APIs &middot; webhooks &middot; OAuth 2.0 &middot; pagination &middot; rate limiting &middot; retry logic
 
-**Machine Learning & Data Science**
+**AI / LLM**
+OpenAI (GPT-4) &middot; Anthropic (Claude) &middot; classification pipelines &middot; prompt engineering &middot; tool / function calling
 
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| [Credit Card Fraud Detection](https://github.com/MehmoodBhutta/Credit_Card_Fraud_Detection) | ML pipeline with automated cross-validation on imbalanced data (92% accuracy) | Scikit-Learn · XGBoost |
-| [Churn Modelling](https://github.com/MehmoodBhutta/Churn_Modelling) | Gradient-boosted churn model with feature-importance reporting (88% accuracy) | Python · Sklearn |
-| [Amazon Scraper](https://github.com/MehmoodBhutta/Amazon-Scrap) | Web scraper for Amazon product data with structured export | Python · BeautifulSoup |
+**AI Agents**
+Open WebUI &middot; Hermes Agent &middot; OpenRouter &middot; multi-agent orchestration
+
+**Programming**
+Python &middot; JavaScript (Node.js) &middot; SQL (MySQL, SQLite, PostgreSQL)
+
+**Infrastructure**
+AWS &middot; DigitalOcean &middot; Docker &middot; Linux &middot; Git &middot; dev / staging / prod &middot; secrets management
+
+---
+
+## Experience
+
+**AI Engineer** &middot; Smart Marketer &middot; Remote &middot; 2024 - Present
+- Designed and operated 10+ production n8n workflows on AWS with zero unplanned downtime over 12 months
+- Cut production incidents by 60% by standardizing exception handling and output validation across all workflows with Git-versioned templates
+- Eliminated client-facing failures with custom uptime monitoring and Slack alerting across every production workflow
+- Integrated 8+ third-party REST APIs with OAuth 2.0 token refresh, pagination, rate-limit handling, and retry logic
+- Set up separate dev, staging, and production environments with environment-variable secrets and reviewed workflow promotions
+- Built an LLM classification pipeline (OpenAI + Anthropic) that scores brand mentions from multiple sources and generates recurring reports
+- Deployed a multi-user AI chat platform on a Linux VPS with OpenRouter multi-model routing for the team
+- Built an OAuth Reddit research tool and webhook-triggered n8n automations for on-demand brand reporting
+- Created a Python + PostgreSQL backend for structured storage of AI workflow outputs
+
+**Python Programmer** &middot; Stream Consultant &middot; Lahore, Pakistan &middot; Dec 2023 - Feb 2024
+- Replaced manual data entry with Python automation, cutting processing time from hours to minutes
+- Built web scrapers to collect product, pricing, and listing data from eBay, Amazon, and ticketing sites
+
+---
+
+## Projects
+
+**[Self-Hosted n8n Production Infrastructure](https://github.com/MehmoodBhutta/aeo-visibility-suite)** &middot; AWS, n8n, Slack API, Git
+Production n8n environment with uptime monitoring, Slack alerts, Git-versioned workflows, and shared templates. 12 months, zero downtime.
+
+**[AI Search Visibility Benchmarking Tool](https://github.com/MehmoodBhutta/aeo-brand-visibility-tracker)** &middot; Python, LLM APIs, n8n
+Scans domains for AI-readiness signals and benchmarks citation rates across ChatGPT, Perplexity, Claude, and Gemini. Produces automated HTML reports.
+
+**[Internal AI Agent Platform](https://github.com/MehmoodBhutta/brand-intelligence-agent)** &middot; Open WebUI, OpenRouter, n8n
+Self-hosted multi-user AI chat platform on DigitalOcean with an OAuth Reddit research tool and webhook-triggered n8n automations.
 
 ---
 
@@ -93,27 +86,15 @@ I architect, deploy, and monitor LLM-powered automation that replaces manual wor
 
 <div align="center">
 
-<img src="https://github-readme-stats-woad.vercel.app/api?username=MehmoodBhutta&show_icons=true&theme=transparent&bg_color=0b0f19&border_color=1f2937&title_color=34D399&icon_color=34D399&text_color=9ca3af&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats-woad.vercel.app/api/top-langs/?username=MehmoodBhutta&layout=compact&theme=transparent&bg_color=0b0f19&border_color=1f2937&title_color=34D399&text_color=9ca3af&hide_border=false" height="165"/>
+<img src="https://github-readme-stats-woad.vercel.app/api?username=MehmoodBhutta&show_icons=true&bg_color=0a0b0d&border_color=1f2937&title_color=22c55e&icon_color=22c55e&text_color=9ca3af&count_private=true" height="165"/>
+<img src="https://github-readme-stats-woad.vercel.app/api/top-langs/?username=MehmoodBhutta&layout=compact&bg_color=0a0b0d&border_color=1f2937&title_color=22c55e&text_color=9ca3af" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MehmoodBhutta&theme=transparent&background=0b0f19&border=1F2937&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=34D399&dates=9CA3AF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MehmoodBhutta&theme=dark&background=0A0B0D&border=1F2937&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=9CA3AF&dates=9CA3AF)](https://git.io/streak-stats)
 
 </div>
 
----
-
-## Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmood-jb)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmoodjbhutta@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MehmoodBhutta)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0f172a,100:0b0f19&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:0f172a,100:0a0b0d&height=120&section=footer&animation=fadeIn"/>
