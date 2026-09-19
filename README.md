@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:0f172a,100:0a0b0d&height=200&section=header&text=Mehmood%20Jamal%20Bhutta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://customer-gbu4wsrjcdamtxzc.cloudflarestream.com/8e83a83629ea1410d956db6c9e11ca5c/thumbnails/thumbnail.gif?time=0s&amp;duration=6s&amp;height=266&amp;fps=15" width="680" alt="Mehmood Jamal Bhutta" />
+  <img src="assets/banner.gif" width="680" alt="Mehmood Jamal Bhutta" />
 </p>
 
 <h1 align="center">Mehmood Bhutta</h1>
